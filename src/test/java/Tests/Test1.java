@@ -29,7 +29,7 @@ public class Test1 {
         driver1.findElement(By.cssSelector("#__next > div.page-layout > div.m > main > div:nth-child(1) > div.SoftKeyboard_mathKeyboard__2wqj6.MathInputField_k__PnFRD > div:nth-child(2) > div > div:nth-child(4) > button.KeyboardButton_key__3jI0q.no-select.KeyboardButton_keyWhite__156xU.k-3-6")).click();
         driver1.findElement(By.cssSelector("#__next > div.page-layout > div.m > main > div:nth-child(1) > div.SoftKeyboard_mathKeyboard__2wqj6.MathInputField_k__PnFRD > div:nth-child(2) > div > div:nth-child(2) > button.KeyboardButton_key__3jI0q.no-select.k-1-9")).click();
         driver1.findElement(By.cssSelector("#__next > div.page-layout > div.m > main > div:nth-child(1) > div.SoftKeyboard_mathKeyboard__2wqj6.MathInputField_k__PnFRD > div:nth-child(2) > div > div:nth-child(2) > button.KeyboardButton_key__3jI0q.no-select.KeyboardButton_keyWhite__156xU.k-1-7")).click();
-        driver1.findElement(By.cssSelector("#__next > div.page-layout > div.m > main > div:nth-child(1) > div.MathInputField_gfc__hnWs9 > button")).click();
+        driver1.findElement(By.cssSelector("#__next > div.page-layout > div.m > main > div:nth-child(1) > div.SoftKeyboard_mathKeyboard__2wqj6.MathInputField_k__PnFRD > div:nth-child(2) > div > div:nth-child(5) > button.KeyboardButton_key__3jI0q.no-select.k-4-7")).click();
         driver.quit();
         driver1.close();
     }
